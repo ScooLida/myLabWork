@@ -63,7 +63,7 @@ id,family_id,name
 62,1,hyperacrius
 63,1,alexandromys
 64,20,?
-65,1,myodes?
+65,1,myodes? #не надо делать отдельные рода под вопросом. это пишется в комментах, оставляется порядок выше
 66,1,tericola
 67,4,meriones
 68,1,lemmiscus
