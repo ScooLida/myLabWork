@@ -1,31 +1,31 @@
 id,order_id,name
-1,1,cricetidae
-2,1,gerbilinae
-3,1,gliridae
-4,1,muridae
-5,1,sciuridae
-6,2,ochotonidae
-7,3,soricidae
-8,1,sminthidae
-9,1,rhizomiidae
-10,4,
-11,1,spalacidae
-12,1,allactactagidae
-13,1,dipodidae
-14,5,microchiroptera
-15,2,leporidae
-16,6,mustelidae
-17,6,felidae
-18,1,gerbillidae
-19,3,talpidae
-20,5,
-21,7,erinaceidae
-22,7,soricidae
-23,4,mephitidae
-24,6,canidae
-25,8,didelphidae
-26,9,tupaiidae
-27,5,vespertilionidae
-28,10,issidae
-29,1,
-30,4,canidae
+1,1,Cricetidae
+2,1,Gerbillinae #это подсмемейство, у тебя тут семейства. внутренности этой штуки можно запихать в 4,1
+3,1,Gliridae
+4,1,Muridae
+5,1,Sciuridae
+6,2,Ochotonidae
+7,3,Soricidae # зачем это, есть 22,7
+8,1,Sminthidae
+9,1,rhizomiidae #внутренности перетащи в 11,1
+10,4,  #это зачем
+11,1,Spalacidae
+12,1,allactactagidae #внутреннности перетащи в 13,1
+13,1,Dipodidae
+14,5,microchiroptera #запихни внутренности в CHIROPTERA
+15,2,Leporidae
+16,6,Mustelidae
+17,6,Felidae
+18,1,Gerbillidae #внутренности запихивай в 4,1
+19,3,Talpidae # вместо incectivora запихать в новый порядок SORICOMORPHA
+20,5,#зачем это
+21,7,Erinaceidae #нужен еще один отряд для этоого семейства Erinaceomorpha, вместо Lipotyphla
+22,7,Soricidae # нужен еще один отряд этоого семейства  Soricomorpha , вместо Lipotyphla
+23,4,Mephitidae # перетащи в порядок Carnivora
+24,6,Canidae
+25,8,Didelphidae # нужен порядок Didelphimorpha 
+26,9,Tupaiidae
+27,5,Vespertilionidae
+28,10,Issidae #должен быть в homoptera, мб у меня лагает
+29,1, #зачем это
+30,4,Сanidae #зачем это, у тебя уже есть 24,6
